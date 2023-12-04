@@ -7,7 +7,7 @@
 - [Website](https://petra.app/)
 - [Discord](https://discord.gg/petrawallet)
 - [Chrome extension](https://chrome.google.com/webstore/detail/petra-aptos-wallet/ejjladinnckdgjemekebdpeokbikhfci)
-- [Feature requests](https://feedback.petra.app)
+- [Feature requests](https://feedback.petra.app).,
 
 
 ### 🐛 Reporting issues / bugs 
